@@ -1,0 +1,16 @@
+
+
+Please rephrase the following for a .md file to look clean on GitHub with proper Markdown hierarchy: 
+
+# → main title 
+## → section 
+### → subsection 
+Code blocks formatted 
+Output formatted 
+No weird spacing 
+No broken formatting 
+
+
+
+
+Following the same .md file document, please rephrase the following for SSet Methods Part 2: Union, Intersection, Difference, Symmetric Difference
