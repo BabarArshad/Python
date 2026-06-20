@@ -14,3 +14,15 @@ No broken formatting
 
 
 Following the same .md file document, please rephrase the following for SSet Methods Part 2: Union, Intersection, Difference, Symmetric Difference
+
+
+
+# 1. Stage all your new changes and modifications
+git add .
+
+# 2. Save your changes locally with a descriptive message
+git commit -m "Describe what you changed or added"
+
+# 3. Upload the changes to your GitHub repository
+git push
+
